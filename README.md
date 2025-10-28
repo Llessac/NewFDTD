@@ -1,4 +1,6 @@
 # NewFDTD v0.1-20240603
+请暂时不要用UI界面...UI界面功能不够完善
+请直接使用newFDTDCalculation模块，虽然这个功能也不太完善
 ## 1.简介
 NewFDTD软件为一款基于Python的开源FDTD算法电磁场仿真软件。
 
