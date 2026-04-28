@@ -6,7 +6,7 @@ NewFDTD软件为一款基于Python的开源FDTD算法电磁场仿真软件。
 
 软件基于MIT开源协议，这意味着该软件基本允许任何形式的使用、修改、再发布。
 
-作者为 Llessac
+作者为 Llessac，如有问题请联系casselll@foxmail.com。
 
 该软件分为两个部分：NewFDTDCalculation模块,负责完成仿真计算的完整功能、NewFDTD(GUI)模块，负责方便用户可视化操作进行仿真计算。两个模块可以独立使用。
 

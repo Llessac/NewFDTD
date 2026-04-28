@@ -331,7 +331,7 @@ class Calculation:
         if boundary_type == "PML":
             print("pml_sigma : " + str(pml_sigma))
         if mode == 1:
-            print("Mode : Auto Mode.\nThe progress bar doesn't have to be complete.")
+            print("Mode : Automatic Mode.\nThe progress bar does not need to be completed.")
         if dt > dt_max:
             print("TIME STEP IS TOO LONG!")
             return
