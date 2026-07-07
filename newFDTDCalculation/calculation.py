@@ -479,7 +479,6 @@ class Calculation:
 
 
         # 设置初值
-        size = domain.local_size
         eps   = xp.ones(size)
         mu    = xp.ones(size)
         sigma = xp.zeros(size)
