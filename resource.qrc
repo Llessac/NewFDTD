@@ -1,0 +1,11 @@
+<RCC>
+    <qresource>
+        <file>resource/iconfinder-icon.svg</file>
+        <file>resource/add.svg</file>
+        <file>resource/del.svg</file>
+        <file>resource/more.svg</file>
+        <file>resource/circle.svg</file>
+        <file>resource/rect.svg</file>
+        <file>resource/triangle.svg</file>
+    </qresource>
+</RCC>
